@@ -2,4 +2,4 @@
  Introducció al desenvolupament frontend
 amongec
 Anna Maria Monge Comas
-Esta práctica se centra en conocer las tecnologías Web actuales, así como aprender a configurar un entorno de trabajo para comenzar a desarrollar aplicaciones web.
+Aquesta pràctica se centra en conèixer les tecnologies Web actuals, així com aprendre a configurar un entorn de treball per a començar a desenvolupar aplicacions web.
